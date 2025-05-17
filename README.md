@@ -64,7 +64,7 @@ I’m an Information Systems student who's currently exploring the world of **we
 
 ## 🐍 Fun Touch
 
-<img src="https://github.com/salmanabdurrahman/tes-bikin-readme/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake.svg" alt="Snake animation" />
 
 ## 🎯 Final Words
 
