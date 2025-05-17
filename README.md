@@ -1,4 +1,9 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3aDRvcDUwamNna2VhMXdhZXBvbWUwdmYzYnRkOXVuYjV3aWltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbBBOLVjZwbTR4Rie0/giphy.gif" width="100%" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3aDRvcDUwamNna2VhMXdhZXBvbWUwdmYzYnRkOXVuYjV3aWltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbBBOLVjZwbTR4Rie0/giphy.gif">
+    <img alt="GitHub Header" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3aDRvcDUwamNna2VhMXdhZXBvbWUwdmYzYnRkOXVuYjV3aWltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbBBOLVjZwbTR4Rie0/giphy.gif" title="GitHub Header" width="100%" loading="lazy"/>
+  </picture>
+</div>
 
 <h1 align="center">Hi, I'm Salman Abdurrahman 👋</h1>
 
