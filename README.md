@@ -2,17 +2,17 @@
 
 <h1 align="center">Hi, I'm Salman Abdurrahman 👋</h1>
 
-### 🧠 About Me
+## 🧠 About Me
 
 I’m an Information Systems student who's currently exploring the world of **web development**, from crafting user interfaces to understanding how everything works behind the scenes. Every line of code I write is part of a journey to become better at building impactful digital experiences.
 
-### 🚀 What I'm Up To
+## 🚀 What I'm Up To
 
 - Exploring how the web works from both the frontend and backend sides  
 - Learning by doing, one project at a time  
 - Continuously improving through challenges, feedback, and curiosity  
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@ I’m an Information Systems student who's currently exploring the world of **we
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salmanabdurrahmann" target="_blank">
@@ -48,7 +48,7 @@ I’m an Information Systems student who's currently exploring the world of **we
   </a>
 </div>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <picture>
@@ -58,15 +58,15 @@ I’m an Information Systems student who's currently exploring the world of **we
   </picture>
 </p>
 
-### 🏆 My Rewards
+## 🏆 My Rewards
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=salmanabdurrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🐍 Fun Touch
+## 🐍 Fun Touch
 
 <img src="https://github.com/salmanabdurrahman/tes-bikin-readme/blob/output/snake.svg" alt="Snake animation" />
 
-### 🎯 Final Words
+## 🎯 Final Words
 
 > I code to create, learn, and grow.  
 > Every bug is a lesson. Every commit is progress.  
