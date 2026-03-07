@@ -84,7 +84,11 @@ I’m an Information Systems student who's currently exploring the world of **we
 ## 🐍 Fun Touch
 
 <p align="center">
-  <img src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake-dark.svg" />
+  </picture>
 </p>
 
 ## 🎯 Final Words
