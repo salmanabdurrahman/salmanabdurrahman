@@ -81,7 +81,7 @@ I’m an Information Systems student who's currently exploring the world of **we
 
 [![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=salmanabdurrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🐍 Fun Touch
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -89,6 +89,16 @@ I’m an Information Systems student who's currently exploring the world of **we
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-light.svg" />
     <img alt="Snake animation" src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-dark.svg" />
   </picture>
+</p>
+
+## 👾 Contribution Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ## 🎯 Final Words
