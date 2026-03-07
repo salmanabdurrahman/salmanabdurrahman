@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Salman Abdurrahman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Information+Systems+Student;Building+Things+For+The+Web;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Information+Systems+Student;Building+Things+For+The+Web;Always+Learning+New+Technologies" />
 </p>
 
 ## 🧠 About Me
@@ -85,9 +85,9 @@ I’m an Information Systems student who's currently exploring the world of **we
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-light.svg" />
+    <img alt="Snake animation" src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-dark.svg" />
   </picture>
 </p>
 
