@@ -8,56 +8,58 @@
 <h1 align="center">Hi, I'm Salman Abdurrahman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Information+Systems+Student;Building+Things+For+The+Web;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Building+AI-Powered+Products;Open+Source+Enthusiast" />
 </p>
 
 ## 🧠 About Me
 
-I’m an Information Systems student who's currently exploring the world of **web development**, from crafting user interfaces to understanding how everything works behind the scenes. Every line of code I write is part of a journey to become better at building impactful digital experiences.
+I'm an Information Systems student and Full Stack Developer passionate about building software that solves real-world problems. I enjoy designing backend systems, building AI-powered products, and creating modern web experiences.
 
-## 🚀 What I'm Up To
+## 💡 Current Focus
 
-- Exploring how the web works from both the frontend and backend sides
-- Learning by doing, one project at a time
-- Continuously improving through challenges, feedback, and curiosity
+- Building scalable web platforms
+- Designing APIs and backend systems
+- Exploring AI-powered developer tools
+- Contributing to open source
+
+## 🚀 Things I Love Building
+
+- AI-powered products
+- Backend systems & APIs
+- Developer tools
+- Modern web platforms
+- Open-source software
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salmanabdurrahmann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
   <a href="https://salmanabdurrahman.web.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
   </a>
   <a href="mailto:salmanabdurrahmann12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@salmanabdurrahman" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@salmanabdurrahmann" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" />
   </a>
 </div>
 
@@ -71,23 +73,23 @@ I’m an Information Systems student who's currently exploring the world of **we
   </picture>
 </p>
 
+## 🏆 GitHub Achievements
+
+[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=salmanabdurrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salmanabdurrahman&theme=tokyonight"/>
 </p>
 
-## 🏆 My Rewards
-
-[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=salmanabdurrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-light.svg" />
-    <img alt="Snake animation" src="https://github.com/salmanabdurrahman/salmanabdurrahman/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/github-snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/github-snake-dark.svg" />
   </picture>
 </p>
 
@@ -95,16 +97,14 @@ I’m an Information Systems student who's currently exploring the world of **we
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/salmanabdurrahman/salmanabdurrahman/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
 
 ## 🎯 Final Words
 
-> I code to create, learn, and grow.  
-> Every bug is a lesson. Every commit is progress.  
-> Let’s keep building!
+> Stay curious. Keep building.
 
 <p align="center">© 2026 - Salman Abdurrahman</p>
