@@ -15,20 +15,12 @@
 
 I'm an Information Systems student and Full Stack Developer passionate about building software that solves real-world problems. I enjoy designing backend systems, building AI-powered products, and creating modern web experiences.
 
-## 💡 Current Focus
+## 💡 What I'm Building & Exploring
 
-- Building scalable web platforms
-- Designing APIs and backend systems
-- Exploring AI-powered developer tools
-- Contributing to open source
-
-## 🚀 Things I Love Building
-
-- AI-powered products
-- Backend systems & APIs
-- Developer tools
-- Modern web platforms
-- Open-source software
+- Architecting APIs and backend systems for modern web platforms.
+- Integrating AI models into practical developer tools and products.
+- Developing scalable, role-based full-stack applications.
+- Contributing to open-source software and infrastructure exploration.
 
 ## 🛠️ Tech Stack
 
@@ -75,7 +67,7 @@ I'm an Information Systems student and Full Stack Developer passionate about bui
 
 ## 🏆 GitHub Achievements
 
-[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=salmanabdurrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-unserori.vercel.app/?username=salmanabdurrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 Contribution Streak
 
